@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Moshiur26/docker-course/issues"
   },
-  "homepage": "https://github.com/Moshiur26/docker-course#readme"
+  "homepage": "https://github.com/Moshiur26/docker-course#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
